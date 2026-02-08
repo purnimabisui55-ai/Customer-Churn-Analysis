@@ -1,4 +1,4 @@
-# 📉 CX Churn Analysis
+# 📉 Customer Churn Analysis
 
 ## 📌 Project Overview
 Customer churn is a major challenge for businesses, as retaining existing customers is more cost-effective than acquiring new ones.  
